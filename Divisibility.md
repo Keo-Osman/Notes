@@ -1,7 +1,7 @@
 ---
 tags:
   - maths/number-theory
----
+--- 
 # Definition
 Given $a,b \in \mathbb{Z}$. We say $a$ *divides* $b$ (denoted $a|b$) *iff* $\exists k \in \mathbb{Z}\text{ s.t }b=ka$.
 # Basic Divisibility Properties
